@@ -1,0 +1,7 @@
+pastry, score_without_pca: 0.8712668339927617, score_after_pca: 0.871334561610593
+z_scratch, score_without_pca: 0.9610609047250719, score_after_pca: 0.9613594909127965
+k_scatch, score_without_pca: 0.9860244576558002, score_after_pca: 0.986063379491557
+stains, score_without_pca: 0.9928932037159542, score_after_pca: 0.9927651925550542
+dirtiness, score_without_pca: 0.8956246660242864, score_after_pca: 0.8934448579884267
+bumps, score_without_pca: 0.8117719226119409, score_after_pca: 0.8117542028120305
+other_faults, score_without_pca: 0.7089709626306068, score_after_pca: 0.708981350388872
