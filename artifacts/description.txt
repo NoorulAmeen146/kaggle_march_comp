@@ -1,3 +1,5 @@
 09_Mar_22_13_09:- score: 0.0, vanilla xgbc with hpt
 09_Mar_22_13_14:- score: 0.8901012079319912, vanilla xgbc with hpt
 
+10_Mar_17_05_44:- score: 0.0, xgbc experiment with varying n_clusters along with hpt
+10_Mar_17_05_48:- score: 0.8903192935783674, xgbc experiment with varying n_clusters along with hpt
