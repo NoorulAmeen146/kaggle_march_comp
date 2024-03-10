@@ -1,0 +1,4 @@
+pastry, score_without_pca: 0.8711923950253805, score_after_pca: 0.8714214301159069
+z_scratch, score_without_pca: 0.9615979654434093, score_after_pca: 0.9615228742870773
+k_scatch, score_without_pca: 0.986134989536066, score_after_pca: 0.9861416019390348
+stains, score_without_pca: 0.9929921164097306, score_after_pca: 0.9928886480309471
