@@ -9,3 +9,9 @@
 11_Mar_14_11_47:- score: 0.0, xgbc experiment with varying n_clusters(2,3) along with hpt
 11_Mar_20_57_46:- score: 0.0, xgbc experiment with varying n_clusters(8) along with hpt
 11_Mar_20_57_50:- score: 0.0, xgbc experiment with varying n_clusters(8) along with hpt
+12_Mar_06_54_19:- score: 0.0, lgbc vanilla with hpt
+12_Mar_06_54_23:- score: 0.8902492195288746, lgbc vanilla with hpt
+12_Mar_15_36_13:- score: 0.0, lgbc experiment with varying n_clusters(4,5,7) along with hpt
+12_Mar_15_36_17:- score: 0.0, lgbc experiment with varying n_clusters(4,5,7) along with hpt
+12_Mar_19_59_03:- score: 0.0, lgbc experiment with varying n_clusters(2,3) along with hpt
+12_Mar_19_59_07:- score: 0.0, lgbc experiment with varying n_clusters(2,3) along with hpt
