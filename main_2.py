@@ -5,7 +5,7 @@ def saver(parameters_: dict = None, results: dict = None, description=None) -> N
     import os
 
     ARTIFACT_PATH = ['d:/Documents/march_kaggle/artifacts/',
-                     'd:\\Intellipaat\\practice files\\keggle projects\\kaggel competition\\kaggle_march_comp\\artifacts\\'] 
+                     'd:\\Intellipaat\\practice files\\keggle projects\\kaggel competition\\kaggle_march_comp\\artifacts']
 
     dict_list = [parameters_, results]
 

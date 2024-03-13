@@ -1,3 +1,5 @@
 09_Mar_22_13_09:- score: 0.0, vanilla xgbc with hpt
 09_Mar_22_13_14:- score: 0.8901012079319912, vanilla xgbc with hpt
 
+13_Mar_19_47_37:- score: 0.0, using lgbc with hpt
+13_Mar_19_47_41:- score: 0.8899319145226806, using lgbc with hpt
