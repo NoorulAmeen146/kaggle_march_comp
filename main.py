@@ -1,4 +1,5 @@
-def saver(parameters_: dict = None, results: dict = None, description=None) -> None:
+
+def saver(parameters_: dict = None, results: dict = None, description: str = None) -> None:
     import datetime
     import time
     import json
