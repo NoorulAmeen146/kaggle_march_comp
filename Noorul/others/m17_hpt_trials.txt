@@ -1,0 +1,69 @@
+value_min_value: 0.8715719005025558
+value_max_value: 0.8723688546775923
+
+params_colsample_bytree_min_value: 0.33000052991418827
+params_colsample_bytree_max_value: 0.4617981045706496
+
+params_gamma_min_value: 0.004646967844698716
+params_gamma_max_value: 4.83554806770142
+
+params_learning_rate_min_value: 0.007353454937800716
+params_learning_rate_max_value: 0.041732144999748894
+
+params_max_depth_min_value: 4
+params_max_depth_max_value: 128
+
+params_max_leaves_min_value: 8
+params_max_leaves_max_value: 276
+
+params_min_child_weight_min_value: 0.011363554392128883
+params_min_child_weight_max_value: 9.340647520039548
+
+params_n_estimators_min_value: 409
+params_n_estimators_max_value: 986
+
+params_reg_alpha_min_value: 0.00013976860949944968
+params_reg_alpha_max_value: 0.9596314250625866
+
+params_reg_lambda_min_value: 0.03789756619143175
+params_reg_lambda_max_value: 0.9999448758422064
+
+params_subsample_min_value: 0.3418312164513462
+params_subsample_max_value: 0.8656926212379339
+
+
+----------
+
+value_min_value: 0.8725612124001701
+value_max_value: 0.8731621707735121
+
+params_colsample_bytree_min_value: 0.33000978605304143
+params_colsample_bytree_max_value: 0.3758785277429195
+
+params_gamma_min_value: 0.0030044490129893485
+params_gamma_max_value: 1.7720325405917499
+
+params_learning_rate_min_value: 0.010889380334523451
+params_learning_rate_max_value: 0.01949248186880218
+
+params_max_depth_min_value: 4
+params_max_depth_max_value: 127
+
+params_max_leaves_min_value: 12
+params_max_leaves_max_value: 256
+
+params_min_child_weight_min_value: 0.010856838953719576
+params_min_child_weight_max_value: 4.068513758187942
+
+params_n_estimators_min_value: 515
+params_n_estimators_max_value: 894
+
+params_reg_alpha_min_value: 0.0002569347293575875
+params_reg_alpha_max_value: 0.9021703373478197
+
+params_reg_lambda_min_value: 0.06912169908348886
+params_reg_lambda_max_value: 0.9995517490701634
+
+params_subsample_min_value: 0.611347930040766
+params_subsample_max_value: 0.6700830344146324
+
