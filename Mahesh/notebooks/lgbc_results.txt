@@ -1,0 +1,7 @@
+pastry, score: 0.8819747933960196
+z_scratch, score: 0.9666575673599709
+k_scatch, score: 0.9870556976512581
+stains, score: 0.9938950566520468
+dirtiness, score: 0.9094415705715415
+bumps, score: 0.8243500585704572
+other_faults, score: 0.7252824274953756
